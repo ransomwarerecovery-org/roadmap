@@ -1,0 +1,32 @@
+02/27/2025
+
+
+
+Roadmap
+
+1. python/streamlit app that visualized all current analytics on ransomware from free open source sources
+    a. https://www.ransomware.live/
+    b. https://www.hudsonrock.com/
+    b. https://vx-underground.org/
+
+2. Find list of open source tools 
+
+3. Find best preventive tools and methodology
+    a. Security tools
+        i. EDR, SIEM, SOAR, IDS/IPS
+        ii. Honeypot
+    b. Backup systems
+    
+
+4. Find detection rules
+
+5. Find commercial products that sponsor
+
+6. Build a sandbox to test various ransomware
+    a. Build to run/execute them
+    b. Now remove them from the system (teach to remove them from the system)
+
+
+7. Build web based application 
+    a. To test and score the security posture for multiple choice questions
+    b. Table top exercise, with questions, related to Ransomware 
